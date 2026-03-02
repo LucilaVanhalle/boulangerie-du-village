@@ -37,7 +37,7 @@ Même si je débute, je voulais que mon site soit propre :
 <li>Aller sur localhost:8080/boulangerie/index.php.</li></ol>
 
 Pour tester le Dashboard Admin :
-**Login :** admin@boulangerie.com
-**MDP :** admin
+**<li>Login :** admin@boulangerie.com</li>
+**<li>MDP :** admin</li>
 
 _Fait avec :heart: (et pas mal de sueur) par Lucila VANHALLE._

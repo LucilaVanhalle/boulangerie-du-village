@@ -22,7 +22,7 @@ C'est là que j'ai le plus appris, même si sur le moment, j'ai failli arracher 
 
 **<li>Le pop-up de l'enfer au rafraîchissement :** À chaque fois que je cliquais sur "Actualiser" après une inscription, ça renvoyait le formulaire et créait un deuxième utilisateur. C'est là que j'ai découvert l'importance des redirections après un POST pour vider la mémoire du navigateur.
 
-<ul><h2>Côté sécurité</h2>
+<h2>Côté sécurité</h2>
 
 Même si je débute, je voulais que mon site soit propre :
 

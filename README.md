@@ -30,9 +30,9 @@ Même si je débute, je voulais que mon site soit propre :
 **<li>Requêtes préparées :** Mon bouclier contre les injections SQL.</li>
 **<li>Sanitisation côté affichage :** Un petit coup de htmlspecialchars() sur tout ce qui s'affiche.</li></ul>
 
-<ol><h2>Guide d'installation</h2>
+<h2>Guide d'installation</h2>
 
-<li>Lancer Docker : docker-compose up -d.</li>
+<ol><li>Lancer Docker : docker-compose up -d.</li>
 <li>Importer boulangerie.sql dans phpMyAdmin (localhost:8081).</li>
 <li>Aller sur localhost:8080/boulangerie/index.php.</li></ol>
 
